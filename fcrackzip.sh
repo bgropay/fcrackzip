@@ -52,12 +52,12 @@ function mfz(){
 # Fungsi untuk memilih jenis teknik
 function mjt(){
 
-        echo -e "${b}┌-----------------------------------------------┐${r}"
-        echo -e "${b}│ [${m}Teknik serangan yang tersedia${b}]               │${r}"
-	echo -e "${b}│-----------------------------------------------│${r}"
-        echo -e "${b}├[${m}1${b}] ${p}Brute Force Attack${b}                         │${r}"
-      	echo -e "${b}├[${m}2${b}] ${p}Dictionary Attack${b}                          │${r}"
-        echo -e "${b}└-----------------------------------------------┘${r}"
+        echo -e "${b}┌------------------------------------------------┐${r}"
+        echo -e "${b}│ [${m}Teknik serangan yang tersedia${b}]                │${r}"
+	echo -e "${b}│------------------------------------------------│${r}"
+        echo -e "${b}├[${m}1${b}] ${p}Brute Force Attack${b}                          │${r}"
+      	echo -e "${b}├[${m}2${b}] ${p}Dictionary Attack${b}                           │${r}"
+        echo -e "${b}└------------------------------------------------┘${r}"
 
         while true; do
 		echo -e "${b}┌(${m}Fcrackzip${b})-[ ${p}Pilih teknik serangan ${b}]"
@@ -123,7 +123,7 @@ function mpmaks(){
 function mjk(){
 
         echo -e "${b}┌------------------------------------------------┐${r}"
-        echo -e "${b}│ [ ${m}Jenis karakter yang tersedia ${b}]               │${r}"
+        echo -e "${b}│ [${m}Jenis karakter yang tersedia${b}]                 │${r}"
 	echo -e "${b}│------------------------------------------------│${r}"
 	echo -e "${b}├[${m}1${b}] ${p}Huruf Kecil${b}                                 │${r}"
         echo -e "${b}├[${m}2${b}] ${p}Huruf Besar${b}                                 │${b}"
