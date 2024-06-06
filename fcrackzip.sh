@@ -17,8 +17,7 @@
 # cepat dan efisien untuk menebak kata sandi file ZIP, yang
 # sering digunakan untuk kompresi dan enkripsi file.
 #----------------------------------------------------------
-# ┌  ┐
-# └  ┘
+
 
 b="\e[1;34m"
 p="\e[1;37m"
