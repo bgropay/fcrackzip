@@ -1,3 +1,5 @@
 Fcrackzip
----------
+
 Fcrackzip adalah alat peretas kata sandi untuk file ZIP yang menggunakan dua teknik: Brute-Force Attack dan Dictionary Attack. Dalam Brute-Force Attack, penyerang mencoba semua kombinasi kata sandi hingga menemukan yang benar. Dalam Dictionary Attack, penyerang menggunakan wordlist yang berisi kata sandi umum.
+
+Fcrackzip dikembangkan oleh Marc Lehmann, seorang programmer yang terkenal dalam komunitas perangkat lunak bebas dan open-source. Alat ini pertama kali dirilis pada tahun 2000. Ide di balik fcrackzip adalah untuk menyediakan alat yang cepat dan efisien untuk menebak kata sandi file ZIP, yang sering digunakan untuk kompresi dan enkripsi file.
