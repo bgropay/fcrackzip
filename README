@@ -1,0 +1,3 @@
+Fcrackzip
+---------
+Fcrackzip adalah alat peretas kata sandi untuk file ZIP yang menggunakan dua teknik: Brute-Force Attack dan Dictionary Attack. Dalam Brute-Force Attack, penyerang mencoba semua kombinasi kata sandi hingga menemukan yang benar. Dalam Dictionary Attack, penyerang menggunakan wordlist yang berisi kata sandi umum.
